@@ -1,2 +1,2 @@
-HTML & CSS BEST PRACTICES
-=========================
+SOME BASIC BEM/SASS EXERCISES
+=============================
